@@ -1,0 +1,16 @@
+node_modules/
+dist/
+target/
+build/
+.next/
+.cache/
+coverage/
+.venv/
+venv/
+.godot/
+.env
+.env.*
+!.env.example
+!.env.sample
+.DS_Store
+*.log
